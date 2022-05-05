@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.image{
+    height:40em;
+    
+    width:auto;
+    background-image: radial-gradient(circle, #f6f6f8, #e6eaec, #d7dede, #cad1ce, #c2c4bd);
+    background-position: center center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 100%;
+  }
